@@ -1,0 +1,73 @@
+
+	java:S112z"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ô²­ï1J$bf8cad34-2ad7-4820-a000-f0a296b0e0b1
+r
+java:S3740+"/Provide the parametrized type for this generic.(»Ú³Ã8‘Ô²­ï1J$afa79007-132e-4f3f-bacd-1fcdb17763a7
+w
+java:S3740,"/Provide the parametrized type for this generic.(Òª„ûÿÿÿÿ8‘Ô²­ï1J$5c2ff0c0-e3df-4d77-9973-8b47e1b4f4b8
+r
+java:S3740-"/Provide the parametrized type for this generic.(îİ§Å8‘Ô²­ï1J$2476513b-7491-4bc1-8651-06594b0658f4
+w
+java:S3740."/Provide the parametrized type for this generic.(‰å¾…úÿÿÿÿ8‘Ô²­ï1J$59f4df43-5680-4c96-8c45-1ce1825d6582
+r
+java:S3740/"/Provide the parametrized type for this generic.(Õ…¼í8‘Ô²­ï1J$d44057e1-1a34-4e30-9d29-7a7e0a3ca118
+r
+java:S37400"/Provide the parametrized type for this generic.(¨­Ì˜8‘Ô²­ï1J$ac3572c1-8216-4d2d-9dd2-fd7ffc7d3b30
+
+java:S1104"VMake lblOrderId a static final constant or non-public and provide accessors if needed.(¢–ñ¯ıÿÿÿÿ8“Ô²­ï1J$f721fd1e-3406-4cb8-8df1-fbc7efd6e91c
+›
+java:S1104"SMake lblDate a static final constant or non-public and provide accessors if needed.(…“À„ÿÿÿÿÿ8“Ô²­ï1J$25dcb8ba-e43a-4d9e-a3b9-982aab6d68d5
+–
+java:S1104"SMake lblTime a static final constant or non-public and provide accessors if needed.(¿°×•8“Ô²­ï1J$f3e66e57-9573-4a7b-b897-285b73e146f3
+
+java:S1104"[Make lblCustomerName a static final constant or non-public and provide accessors if needed.(†Ÿ’8“Ô²­ï1J$2f7b42a8-7828-4007-9533-b55542139938
+•
+java:S1104"RMake lblDob a static final constant or non-public and provide accessors if needed.(Ö¥Ùë8“Ô²­ï1J$7db0db18-6263-4266-bc33-f5734f098545
+
+java:S1104 "UMake lblSalary a static final constant or non-public and provide accessors if needed.(©Àÿÿÿÿÿ8“Ô²­ï1J$f0bed740-92f0-4474-8d80-4f8d85a2bf9d
+
+java:S1104!"VMake lblAddress a static final constant or non-public and provide accessors if needed.(º ´øûÿÿÿÿ8“Ô²­ï1J$e1687f23-0f24-46e1-9d0e-f384efdf185a
+¡
+java:S1104""YMake lblPostalCode a static final constant or non-public and provide accessors if needed.(Ú×““ûÿÿÿÿ8“Ô²­ï1J$f1d65d39-932e-41e4-892d-a22c30542fd5
+š
+java:S1104#"WMake lblProvince a static final constant or non-public and provide accessors if needed.(‘°ë8“Ô²­ï1J$9824895b-b26c-4926-9256-30b3456b1c8a
+›
+java:S1104$"SMake lblDesc a static final constant or non-public and provide accessors if needed.(®ªóäÿÿÿÿÿ8“Ô²­ï1J$3559d02b-b413-4f91-b381-ad4f95f8034c
+Ÿ
+java:S1104%"WMake lblPackSize a static final constant or non-public and provide accessors if needed.(ëèéßúÿÿÿÿ8“Ô²­ï1J$092b66a2-53d0-473b-96d3-625dc024ac24
+š
+java:S1104&"XMake lblUnitPrice a static final constant or non-public and provide accessors if needed.(°„«8“Ô²­ï1J$ec4da942-e51d-4e50-945b-b7e850a7ba1d
+š
+java:S1104'"RMake lblQty a static final constant or non-public and provide accessors if needed.(²´ºëúÿÿÿÿ8“Ô²­ï1J$000a2310-589a-4018-abc7-9e5c9996f764
+Ÿ
+java:S1104("WMake lblNetTotal a static final constant or non-public and provide accessors if needed.(Êà£†úÿÿÿÿ8“Ô²­ï1J$75b0c3de-f888-42c2-80cb-b435f41e956b
+œ
+java:S1104)"YMake txtCustomerId a static final constant or non-public and provide accessors if needed.(©ÿç8“Ô²­ï1J$32942a7c-cf3d-4e94-a72e-d7e82ecb5bbf
+
+java:S1104*"UMake txtItemId a static final constant or non-public and provide accessors if needed.(Ëƒ‡Ûşÿÿÿÿ8“Ô²­ï1J$fa820983-3025-48f3-ab2d-8ba75d35e214
+›
+java:S1104+"XMake tblOrderCart a static final constant or non-public and provide accessors if needed.(»Ú³Ã8“Ô²­ï1J$78c7c49d-caae-458d-bdfa-3821647fc44d
+Ÿ
+java:S1104,"WMake colItemCode a static final constant or non-public and provide accessors if needed.(Òª„ûÿÿÿÿ8“Ô²­ï1J$7245a48e-3dcd-45cd-bfa0-b27a9054fd22
+–
+java:S1104-"SMake colDesc a static final constant or non-public and provide accessors if needed.(îİ§Å8“Ô²­ï1J$39edf176-7868-4519-a561-58ea5f075f30
+š
+java:S1104."RMake colQty a static final constant or non-public and provide accessors if needed.(‰å¾…úÿÿÿÿ8“Ô²­ï1J$0b432320-28f8-44a2-8352-f412e5b6e8f6
+›
+java:S1104/"XMake colUnitPrice a static final constant or non-public and provide accessors if needed.(Õ…¼í8“Ô²­ï1J$163c86ce-992e-4eb3-a671-c47d1243affb
+—
+java:S11040"TMake colTotal a static final constant or non-public and provide accessors if needed.(¨­Ì˜8“Ô²­ï1J$c779a67e-772b-44c5-8e00-0181d795d7c0
+Š
+java:S2095i"GUse try-with-resources or close this "Statement" in a "finally" clause.(îÃ³º8¾Ô²­ï1J$1ce8ab39-b7c9-41c0-900d-640954896492
+
+java:S2095^"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¾Ô²­ï1J$5b33ab42-7a97-4415-93f7-dbb6272ee4a9
+Ã
+java:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÚèôW8¿Ô²­ï1J$15896cf5-57f1-468c-86b6-1527388f54c0
+É
+java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ùãäàøÿÿÿÿ8¿Ô²­ï1J$eaef00db-6009-454c-ab14-0897d255f831
+Ä
+java:S1186P"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ºÿ´8¿Ô²­ï1J$ab3a11cb-626d-4cd6-bd01-78693742d485
+Ä
+java:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áÄ´ü8¿Ô²­ï1J$85e0f4d3-1e65-4dc6-a2cb-4934a567bf81
+u
+java:S1172W"2Remove this unused method parameter "actionEvent".(ŠÜÎ£8×í¸­ï1J$45f11168-1855-4f4f-859c-1a645d86ef28
+m	java:S106c"+Replace this use of System.out by a logger.(ŠÔö·8ÈÔ²­ï1J$579d8b86-6231-4be5-a341-589274dcda76
